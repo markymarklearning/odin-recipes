@@ -1,0 +1,23 @@
+/* styles for index.html */
+
+h1 {
+    font-family: "arial", sans-serif;
+    background-color: green;
+}
+
+a {
+    color: blue;
+    font-weight: bold;
+}
+
+/*styles for recipes */
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.title {
+    font-size: 36px;
+    font-family: cursive;
+}
